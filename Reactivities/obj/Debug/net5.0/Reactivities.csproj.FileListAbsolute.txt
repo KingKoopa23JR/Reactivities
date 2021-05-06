@@ -1,0 +1,16 @@
+C:\Users\Dylan\source\repos\Reactivities\Reactivities\bin\Debug\net5.0\Reactivities.exe
+C:\Users\Dylan\source\repos\Reactivities\Reactivities\bin\Debug\net5.0\Reactivities.deps.json
+C:\Users\Dylan\source\repos\Reactivities\Reactivities\bin\Debug\net5.0\Reactivities.runtimeconfig.json
+C:\Users\Dylan\source\repos\Reactivities\Reactivities\bin\Debug\net5.0\Reactivities.runtimeconfig.dev.json
+C:\Users\Dylan\source\repos\Reactivities\Reactivities\bin\Debug\net5.0\Reactivities.dll
+C:\Users\Dylan\source\repos\Reactivities\Reactivities\bin\Debug\net5.0\ref\Reactivities.dll
+C:\Users\Dylan\source\repos\Reactivities\Reactivities\bin\Debug\net5.0\Reactivities.pdb
+C:\Users\Dylan\source\repos\Reactivities\Reactivities\obj\Debug\net5.0\Reactivities.csprojAssemblyReference.cache
+C:\Users\Dylan\source\repos\Reactivities\Reactivities\obj\Debug\net5.0\Reactivities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan\source\repos\Reactivities\Reactivities\obj\Debug\net5.0\Reactivities.AssemblyInfoInputs.cache
+C:\Users\Dylan\source\repos\Reactivities\Reactivities\obj\Debug\net5.0\Reactivities.AssemblyInfo.cs
+C:\Users\Dylan\source\repos\Reactivities\Reactivities\obj\Debug\net5.0\Reactivities.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\source\repos\Reactivities\Reactivities\obj\Debug\net5.0\Reactivities.dll
+C:\Users\Dylan\source\repos\Reactivities\Reactivities\obj\Debug\net5.0\ref\Reactivities.dll
+C:\Users\Dylan\source\repos\Reactivities\Reactivities\obj\Debug\net5.0\Reactivities.pdb
+C:\Users\Dylan\source\repos\Reactivities\Reactivities\obj\Debug\net5.0\Reactivities.genruntimeconfig.cache
